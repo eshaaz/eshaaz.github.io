@@ -1,0 +1,146 @@
+{
+  "site": {
+    "title": "Eshaaz - Elegance of Bengali Womanhood",
+    "brand": {
+      "name": "Eshaaz",
+      "tagline": "Elegance of Bengali Womanhood",
+      "logo": "static/images/EshaazNewLogo.png"
+    },
+    "navigation": [
+      { "name": "Home", "href": "#home" },
+      { "name": "About", "href": "#about" },
+      { "name": "Collection", "href": "#collection" },
+      { "name": "Contact", "href": "#contact" }
+    ],
+    "socialMedia": {
+      "facebook": "#",
+      "instagram": "#"
+    }
+  },
+  "config": {
+    "emailService": {
+      "endpoint": "https://email-service-e5iq.onrender.com/api/v1/send-email",
+      "recipientEmail": "eshaaz.official@gmail.com"
+    }
+  },
+  "hero": {
+    "title": "Elegance of Bengali Womanhood",
+    "subtitle": "Discover the perfect blend of traditional Bengali fashion and modern elegance. Crafted with love for the contemporary Bengali woman.",
+    "ctaText": "Shop Now on Facebook",
+    "ctaLink": "#"
+  },
+  "about": {
+    "title": "About Eshaaz",
+    "content": [
+      "At Eshaaz, we celebrate the timeless beauty of Bengali heritage through contemporary fashion. Our mission is to create clothing that honors traditional Bengali aesthetics while embracing modern design sensibilities. Each piece in our collection tells a story of cultural pride, craftsmanship, and the evolving identity of the modern Bengali woman.",
+      "From elegant sarees with intricate patterns to stylish salwar-kameez sets, we curate fashion that speaks to the heart of Bengali culture while meeting the needs of today's dynamic lifestyle."
+    ],
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "imageAlt": "Bengali Woman in Traditional Attire"
+  },
+  "collection": {
+    "title": "Our Collection",
+    "subtitle": "Discover our curated selection of Bengali-inspired fashion",
+    "products": [
+      {
+        "id": 1,
+        "name": "Traditional Silk Saree",
+        "price": 3500,
+        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "alt": "Traditional Saree",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Embroidered Kurta Set",
+        "price": 2200,
+        "image": "https://images.unsplash.com/photo-1509319117437-540e3948358d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "alt": "Embroidered Kurta",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Designer Salwar Kameez",
+        "price": 2800,
+        "image": "https://images.unsplash.com/photo-1583743814966-8936f37f820a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "alt": "Designer Salwar",
+        "link": "#"
+      },
+      {
+        "id": 4,
+        "name": "Festive Wear Collection",
+        "price": 4200,
+        "image": "https://images.unsplash.com/photo-1596633159861-e3ff1b3c5ae7?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "alt": "Festive Wear",
+        "link": "#"
+      },
+      {
+        "id": 5,
+        "name": "Casual Cotton Set",
+        "price": 1800,
+        "image": "https://images.unsplash.com/photo-1506629905607-d732a1d46ca6?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "alt": "Casual Wear",
+        "link": "#"
+      },
+      {
+        "id": 6,
+        "name": "Party Wear Ensemble",
+        "price": 3800,
+        "image": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "alt": "Party Wear",
+        "link": "#"
+      },
+      {
+        "id": 7,
+        "name": "Bridal Collection",
+        "price": 8500,
+        "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "alt": "Bridal Collection",
+        "link": "#"
+      },
+      {
+        "id": 8,
+        "name": "Summer Special",
+        "price": 2500,
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "alt": "Summer Special",
+        "link": "#"
+      }
+    ]
+  },
+  "features": {
+    "title": "Why Choose Eshaaz",
+    "subtitle": "Experience the difference of authentic Bengali fashion",
+    "items": [
+      {
+        "icon": "fas fa-star",
+        "title": "Authentic Bengali Style",
+        "description": "Each piece reflects the rich heritage and traditional craftsmanship of Bengali culture"
+      },
+      {
+        "icon": "fas fa-gem",
+        "title": "Premium Fabrics",
+        "description": "We source only the finest materials to ensure comfort, durability, and luxury"
+      },
+      {
+        "icon": "fas fa-shipping-fast",
+        "title": "Nationwide Delivery",
+        "description": "Fast and reliable delivery across Bangladesh with careful packaging"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "We'd love to hear from you",
+    "followText": "Follow Us"
+  },
+  "footer": {
+    "brandName": "Eshaaz",
+    "copyright": "© 2025 Eshaaz. All rights reserved.",
+    "links": [
+      { "name": "Facebook", "href": "#" },
+      { "name": "Instagram", "href": "#" }
+    ]
+  },
+  "currency": "৳"
+}
